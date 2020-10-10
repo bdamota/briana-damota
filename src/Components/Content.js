@@ -25,7 +25,7 @@ function Content () {
           
              <div className="twelve columns collapsed">
              <div className="col text-center">
-                <h2>Broadcast, Digital + Branded Content</h2>
+                <h2>BROADCAST + DIGITAL + BRANDED CONTENT </h2>
             </div>
           </div>
           </div>

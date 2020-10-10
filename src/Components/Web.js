@@ -10,7 +10,7 @@ function Web () {
     return (
       <section id="web">
       <div className="col text-center">
-      <h2>UX Design + Web Development</h2>
+      <h2>UX DESIGN + WEB DEVELOPMENT</h2>
       </div>
       <div className="row work">
          <div className="three columns header-col">
@@ -106,7 +106,7 @@ function Web () {
           <Button type="button" className="button" 
                   onClick={(e) => {
                     e.preventDefault();
-                    window.open('https://github.com/bdamota/briana');
+                    window.open('https://github.com/bdamota/briana-damota');
                    }} variant="secondary">See Code</Button>
           </ButtonGroup>
         </Card>

@@ -61,7 +61,7 @@ class LightboxPage extends React.Component {
     return (
       <section id="photography">
       <div className="col text-center no-margin">
-      <h2 className="photos"> Travel + Business Photography</h2>
+      <h2 className="photos"> TRAVEL + BUSINESS PHOTOGRAPHY</h2>
 
       <MDBContainer>
           <MDBRow className="photoRow">

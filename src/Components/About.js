@@ -6,7 +6,7 @@ function About ()  {
       <section id="about">
       <div className="row">
          <div className="six columns main-col col text-center">
-            <h2>About Me</h2>
+            <h2>ABOUT ME</h2>
             <div className="aboutInfo">
               <p>I have a passion for people and telling diverse stories that reflect both our unique and shared experiences. I've spent the last ten years working with clients to create authentic and compelling broadcast, digital and branded content that resonates with general market and multicultural audiences.</p>
             <p>I'm currently enrolled in an intensive MERN Stack Coding Bootcamp at UCLA, UX Design Programs through Udacity and General Assembly, and a Digital Product Management Specialization through UVA Darden School of Business. My goal is to acquire the skills needed to manage the development process of polished, fully responsive and interactive digital products that drive user engagement.</p>
