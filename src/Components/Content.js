@@ -126,7 +126,7 @@ function Content () {
                      <p className="contentInfo">Ram wanted to reach the US Hispanic audience for the launch of the 2018 Ram 1500. We created their overall Spanish language broadcast, radio and print campaign that ran through the World Cup.<br></br>
                      <strong>Production Company:</strong> Joe Agency & Landia (Director: Robert Llauro)<br></br>
                      <strong>Production Location:</strong> U.S. | Chile | Mexico<br></br>
-                      <strong>Roles:</strong> Creative Producer | Line Producer | Production Manager<br></br>
+                      <strong>Roles:</strong> Creative Producer | Line Producer | Account Manager<br></br>
                       <strong>Assets:</strong> 1 X :60 Anthem Spot | 1 X :30 National Broadcast Spot | 1 X :23/7 Dealer Cutdown | 1 X :15 Internet Cutdown | 2 X :30 Broadcast Feature Spot | 2 X :23/7 Feature Dealer Cutdown | 2 X :15 Feature Internet Cutdown | 2 X Print Ad | 5 X Radio Spot<br></br>
                  </p>
               </div>
