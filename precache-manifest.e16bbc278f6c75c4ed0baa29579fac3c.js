@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9cc7d6d775a7ff6c23863c6e8e22415d",
+    "revision": "9df46e08ff8eecff01f2edd57d160c47",
     "url": "/briana-damota/index.html"
   },
   {
-    "revision": "d994bdae0de8f520a8e3",
+    "revision": "90b286269f853540a137",
     "url": "/briana-damota/static/css/main.34585449.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/briana-damota/static/js/2.6445ee84.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d994bdae0de8f520a8e3",
-    "url": "/briana-damota/static/js/main.5a10b916.chunk.js"
+    "revision": "90b286269f853540a137",
+    "url": "/briana-damota/static/js/main.0dd06347.chunk.js"
   },
   {
     "revision": "fd26ba629afdd4ec5126",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/briana-damota/static/media/kickback.fae1e716.jpg"
   },
   {
-    "revision": "4fe5776be46e2f3f6dbf6a9db306a57a",
-    "url": "/briana-damota/static/media/profilepic.4fe5776b.jpg"
+    "revision": "c6e15302ee14eebc1746698f3caf5d8a",
+    "url": "/briana-damota/static/media/profilepic.c6e15302.jpg"
   },
   {
     "revision": "be5578e4eed24250fcc73ed5bd5df0bd",
