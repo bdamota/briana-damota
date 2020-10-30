@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/briana-damota/static/css/main.34585449.chunk.css",
-    "main.js": "/briana-damota/static/js/main.841eb254.chunk.js",
-    "main.js.map": "/briana-damota/static/js/main.841eb254.chunk.js.map",
+    "main.js": "/briana-damota/static/js/main.8288dd76.chunk.js",
+    "main.js.map": "/briana-damota/static/js/main.8288dd76.chunk.js.map",
     "runtime-main.js": "/briana-damota/static/js/runtime-main.d3b154b4.js",
     "runtime-main.js.map": "/briana-damota/static/js/runtime-main.d3b154b4.js.map",
-    "static/js/2.6445ee84.chunk.js": "/briana-damota/static/js/2.6445ee84.chunk.js",
-    "static/js/2.6445ee84.chunk.js.map": "/briana-damota/static/js/2.6445ee84.chunk.js.map",
+    "static/js/2.1a01ae60.chunk.js": "/briana-damota/static/js/2.1a01ae60.chunk.js",
+    "static/js/2.1a01ae60.chunk.js.map": "/briana-damota/static/js/2.1a01ae60.chunk.js.map",
     "index.html": "/briana-damota/index.html",
-    "precache-manifest.1e8c92338c8bcc2defbd588f2c339f1f.js": "/briana-damota/precache-manifest.1e8c92338c8bcc2defbd588f2c339f1f.js",
+    "precache-manifest.56666367ac92f19eb63f7629b1042530.js": "/briana-damota/precache-manifest.56666367ac92f19eb63f7629b1042530.js",
     "service-worker.js": "/briana-damota/service-worker.js",
     "static/css/main.34585449.chunk.css.map": "/briana-damota/static/css/main.34585449.chunk.css.map",
-    "static/js/2.6445ee84.chunk.js.LICENSE.txt": "/briana-damota/static/js/2.6445ee84.chunk.js.LICENSE.txt",
+    "static/js/2.1a01ae60.chunk.js.LICENSE.txt": "/briana-damota/static/js/2.1a01ae60.chunk.js.LICENSE.txt",
     "static/media/BiggestLoser.mp4": "/briana-damota/static/media/BiggestLoser.2f635cdc.mp4",
     "static/media/Freeform.mp4": "/briana-damota/static/media/Freeform.73bdca45.mp4",
     "static/media/MasQueScreen.jpg": "/briana-damota/static/media/MasQueScreen.ff0ff002.jpg",
@@ -19,6 +19,7 @@
     "static/media/Portfolio.jpg": "/briana-damota/static/media/Portfolio.5ec4fc14.jpg",
     "static/media/Ram.mp4": "/briana-damota/static/media/Ram.66b063a7.mp4",
     "static/media/Reina.mp4": "/briana-damota/static/media/Reina.8d608110.mp4",
+    "static/media/Splitsies.png": "/briana-damota/static/media/Splitsies.2be831f4.png",
     "static/media/TPIR.mp4": "/briana-damota/static/media/TPIR.c780db6c.mp4",
     "static/media/Toyota.mp4": "/briana-damota/static/media/Toyota.6f352c4d.mp4",
     "static/media/architecture10.jpg": "/briana-damota/static/media/architecture10.a7e193dc.jpg",
@@ -49,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d3b154b4.js",
-    "static/js/2.6445ee84.chunk.js",
+    "static/js/2.1a01ae60.chunk.js",
     "static/css/main.34585449.chunk.css",
-    "static/js/main.841eb254.chunk.js"
+    "static/js/main.8288dd76.chunk.js"
   ]
 }
