@@ -5,6 +5,7 @@ import Button from 'react-bootstrap/Button';
 import KickBackImage from "../images/kickback.jpg"
 import MyLingualImage from "../images/Mylingual.jpg"
 import PortfolioImage from "../images/Portfolio.jpg"
+import SplitsiesImage from "../images/Splitsies.png"
 
 function Web () {
     return (
@@ -34,10 +35,29 @@ function Web () {
             <h1><span>Projects</span></h1>
          </div>
 
+
          <Card className="bg-dark text-white nine columns main-col">
+          <img className="profileimage" src={SplitsiesImage} alt="Splitsies" />
+          <Card.Title><h3>Splitsies</h3></Card.Title>
+          <Card.Text>
+          Splitsies is a mobile application that allows diners to easily and quickly split checks when eating out in a group. I independently designed this intuitive and simple to use prototype concept. <br></br><br>
+          </br><strong>My Role:</strong> UX Designer<br>
+          </br><strong>Time Period:</strong> 5 days (October 2020)<br>
+          </br><strong>Design Tools:</strong> Figma, Adobe Illustrator, Miro, Pen and Paper 
+            </Card.Text>
+          <ButtonGroup className="buttons" aria-label="Basic example">
+          <Button type="button" className="button" 
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.open('https://www.behance.net/gallery/106883783/Splitsies');
+                   }} variant="secondary">UX Case Study</Button>
+          </ButtonGroup>
+        </Card>
+
+         <Card className="bg-dark text-white nine columns main-col secondProject">
           <img className="portfolioimage" src={MyLingualImage} alt="MyLingual" />
           <Card.Title><h3>MyLingual</h3></Card.Title>
-          <Card.Text>
+          <Card.Text className="cardText">
           MyLingual is a web-based social application that connects people who are learning the same languages. Users share and discover language resources, while immersing themselves in a supportive, knowledge-filled community. I co-developed this concept with classmates in my UCLA Coding Bootcamp cohort. <br></br><br>
           </br><strong>Team:</strong>  Briana daMota, Lauren Euge, Alex Chigas, Rochelle Ruiz<br>
           </br><strong>My Roles:</strong> UX Designer, Writer, Front-end Developer, Project Manager<br>
@@ -100,6 +120,7 @@ function Web () {
           <Card.Title><h3>Personal Portfolio</h3></Card.Title>
           <Card.Text>
           A web-based portfolio to highlight my professional and education experience in UX design, web development, content creation and photography. <br></br><br>
+          </br><strong>My Role:</strong> UX Designer, Front-end Developer<br>
           </br><strong>Tech:</strong> HTML5, CSS3, Bootstrap, JavaScript, React 
             </Card.Text>
           <ButtonGroup className="buttons" aria-label="Basic example">

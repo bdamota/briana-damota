@@ -28,7 +28,6 @@ function Header () {
                   <h3>Always a wanderluster.</h3>
                   <ul className="social">
                   <li><a href="https://www.linkedin.com/in/brianadamota/" target="blank"> <i className="fa fa-linkedin"></i> </a></li>
-                  <li><a href="https://www.instagram.com/youngbreez/" target="blank"> <i className="fa fa-instagram"></i> </a></li>
                   <li><a href="https://github.com/bdamota" target="blank"> <i className="fa fa-github"></i> </a></li>
                   </ul>
              </div>
