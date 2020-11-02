@@ -39,7 +39,7 @@ function Web () {
          <Card className="bg-dark text-white nine columns main-col">
           <img className="profileimage" src={SplitsiesImage} alt="Splitsies" />
           <Card.Title><h3>Splitsies</h3></Card.Title>
-          <Card.Text>
+          <Card.Text className="cardText">
           Splitsies is a mobile application that allows diners to easily and quickly split checks when eating out in a group. I independently designed this intuitive and simple to use prototype concept. <br></br><br>
           </br><strong>My Role:</strong> UX Designer<br>
           </br><strong>Time Period:</strong> 5 days (October 2020)<br>
@@ -118,7 +118,7 @@ function Web () {
         <Card className="bg-dark text-white nine columns main-col">
           <img className="portfolioimage" src={PortfolioImage} alt="Portfolio" />
           <Card.Title><h3>Personal Portfolio</h3></Card.Title>
-          <Card.Text>
+          <Card.Text className="cardText">
           A web-based portfolio to highlight my professional and education experience in UX design, web development, content creation and photography. <br></br><br>
           </br><strong>My Role:</strong> UX Designer, Front-end Developer<br>
           </br><strong>Tech:</strong> HTML5, CSS3, Bootstrap, JavaScript, React 

@@ -69,13 +69,13 @@ header .banner-text h3 {
 
 /* header social links */
 header .social {
-   margin-top: 15px;
+   margin-top: 8px;
    font-size: 30px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
 }
 header .social li {
    display: inline-block;
-   margin: -1% 10px;
+   margin: -1% 8px;
    padding: 0;
 }
 header .social li a { color: #fff; }
@@ -283,7 +283,7 @@ ul#nav li a:hover { color: #168387}
    font: 16px/24px;
    color: #6E7881;
    margin-bottom: 25px;
-   margin-top: 15px;
+   margin-top: -5px;
    line-height: 30px;
    text-align: justify;
 }
@@ -312,13 +312,26 @@ ul#nav li a:hover { color: #168387}
    margin-left: -3%;
 }
 
+.video {
+   text-align: center;
+}
+
 #portfolio h2 {
    font: 40px/28px 'opensans-bold', sans-serif;
    padding-top: 5px;
    margin-bottom: 12px;
 }
 
+.contentInfo {
+   margin-right: 4%;
+}
 
+
+
+.portfolio-item-meta {
+   text-align: justify;
+   margin-left: 4%;
+}
 
 video::-webkit-media-controls-panel {
    display: flex !important;
@@ -371,7 +384,7 @@ video::-webkit-media-controls-panel {
    font: 40px/28px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 5%;
-   margin-top: -5%;
+   margin-top: -8%;
 }
 
 #contact p, .email {
@@ -433,7 +446,7 @@ footer .social-links li {
     display: inline-block;
     margin: 0;
     padding: 0;
-    margin-left: 42px;
+    margin-left: 15px;
     color: black;
 }
 
@@ -685,10 +698,11 @@ header .banner-text h1 {
 
   /* header social links */
   header .social {
-     margin: 18px 0 24px 0;
+     margin: 8px 0 24px 0;
      font-size: 24px;
      line-height: 36px;      
   }
+
   header .social li { margin: 0 10px; }
 
    /* scrolldown link */
@@ -795,6 +809,8 @@ header .banner-text h1 {
       font: 30px;
    }
 
+   header .social { margin-top: -.25%}
+
    .aboutInfo {
       padding-right: 15px;
       }
@@ -822,7 +838,7 @@ header .banner-text h1 {
    }
 
    .projectTitle {
-      font-size: 100%;
+      font-size: 125%;
    }
 
    .portfolio-item {
@@ -867,7 +883,7 @@ header .banner-text h1 {
   }
  
   /* header social links */
-  header .social { font-size: 20px;}
+  header .social { font-size: 20px;  margin-top: -.5%}
   header .social li { margin: -10% 6px; }
 
   #about .profile-pic {
@@ -909,7 +925,7 @@ header .banner-text h1 {
   ------------------------------------------------------------------------ */
 
   /* social links */
-  footer .social-links { font-size: 20px; }
+  footer .social-links { font-size: 20px;}
   footer .social-links li { margin-left: 14px; margin-top: -5%; }   
 
 }
