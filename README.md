@@ -5,7 +5,8 @@ My personal portfolio built with React to showcase my UX design, web development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Screenshot 
+## Screenshot: 
+![image] (https://github.com/bdamota/briana-damota/blob/master/Portfolio.jpg)
 
 ## Live Site: 
 https://bdamota.github.io/briana-damota/
