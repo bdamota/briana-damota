@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/briana-damota/precache-manifest.56666367ac92f19eb63f7629b1042530.js"
+  "/briana-damota/precache-manifest.2e3facbe2c7714050c3aba36aee39aeb.js"
 );
 
 self.addEventListener('message', (event) => {
