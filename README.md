@@ -1,7 +1,7 @@
 # Personal Portfolio   
 
 ## Project Description:
-A portfolio built with React to showcase my UX design, web development and content production work. 
+My personal portfolio built with React to showcase my UX design, web development and content production work. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
