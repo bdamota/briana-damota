@@ -58,12 +58,12 @@ header .banner-text h1 {
    margin: -20% auto 8px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
-header .banner-text h3 {
+header .banner-text p {
    font: 17px/1.6em 'librebaskerville-regular', serif;
    color: black;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .3);
+   text-shadow: 0px 1px 1px rgba(0, 0, 0, .3);
 }
 
 
@@ -75,33 +75,13 @@ header .social {
 }
 header .social li {
    display: inline-block;
-   margin: -1% 8px;
+   margin:  8px;
    padding: 0;
 }
 header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
 
-/* scrolldown link */
-header .scrolldown a {
-   position: absolute;
-   bottom: 40px;
-   left: 50%;
-   margin-left: -29px;
-   color: #fff;
-   display: block;
-   height: 42px;
-   width: 42px;
-   font-size: 42px;
-   line-height: 42px;
-   color: #fff;
-   border-radius: 100%;
 
-   -webkit-transition: all .3s ease-in-out;
-   -moz-transition: all .3s ease-in-out;
-   -o-transition: all .3s ease-in-out;
-   transition: all .3s ease-in-out;
-}
-header .scrolldown a:hover { color:#11ABB0; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -184,7 +164,7 @@ ul#nav li a:hover { color: #168387}
 }
 #about p {
    line-height: 30px;
-   color: #878383;
+   color: #e4dede;
    text-align: justify;
 }
 #about .profile-pic {
@@ -207,16 +187,16 @@ ul#nav li a:hover { color: #168387}
 
 
 
-#web h1 {
+#web h2 {
    font: 20px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#web h1 span {
+#web h2 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#web h2 {
+#web h1 {
    font: 40px/28px 'opensans-bold', sans-serif;
    padding-top: 8px;
    margin-bottom: 5%;
@@ -237,7 +217,8 @@ ul#nav li a:hover { color: #168387}
 }
 
 .skills {
-   font-size: 14px;
+   font-size: 15px;
+   color: rgb(58, 51, 51);
 }
 
 .design {
@@ -273,15 +254,15 @@ ul#nav li a:hover { color: #168387}
 }
 #web .info {
    font: 15px/24px;
-   color: #6E7881;
+   color: rgb(58, 51, 51);
    margin-bottom: 25px;
    margin-top: 15px;
    line-height: 30px;
    text-align: justify;
 }
 #web .cardText {
-   font: 16px/24px;
-   color: #6E7881;
+   font: 15px/24px;
+   color: rgb(58, 51, 51);
    margin-bottom: 25px;
    margin-top: -5px;
    line-height: 30px;
@@ -331,6 +312,7 @@ ul#nav li a:hover { color: #168387}
 .portfolio-item-meta {
    text-align: justify;
    margin-left: 4%;
+   color: rgb(58, 51, 51);
 }
 
 video::-webkit-media-controls-panel {
@@ -339,7 +321,7 @@ video::-webkit-media-controls-panel {
 }
 
 .content-button {
-   margin-top: 5%;
+   margin-top: 3%;
    margin-bottom: 2%;
 }
 /* ------------------------------------------------------------------
@@ -366,7 +348,7 @@ video::-webkit-media-controls-panel {
 }
 
 .photo-button {
-   margin-top: 5%;
+   margin-top: 4%;
 }
 
 /* ------------------------------------------------------------------ */
@@ -377,7 +359,7 @@ video::-webkit-media-controls-panel {
    background: #191919;
    padding-top: 205px;
    padding-bottom: 100px;
-   color: #636363;
+   color: #e4dede;
 }
 
 #contact h2 {
@@ -403,7 +385,7 @@ video::-webkit-media-controls-panel {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: rgb(58, 51, 51);
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -422,7 +404,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
-    color: #878383;
+    color: rgb(58, 51, 51);
 }
 .ie footer .copyright li {
    display: inline;
@@ -447,7 +429,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 15px;
-    color: black;
+    color: rgb(58, 51, 51);
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -467,7 +449,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #525252;
+	background-color: #0F9095;
 
 	-webkit-transition: all 0.2s ease-in-out;
    -moz-transition: all 0.2s ease-in-out;
@@ -480,7 +462,7 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: rgb(58, 51, 51); }
 
 
 /* 
@@ -546,7 +528,7 @@ header .banner-text h1 {
 
   /* Web Section
   ------------------------------------------------------------------- */
-  #web h1 span {
+  #web h2 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
    line-height: 2;
@@ -713,6 +695,7 @@ header .banner-text h1 {
   -------------------------------------------------------------------- */
   #about .profile-pic { 
      width: 400px;
+     margin-top: 2%;
    }
 
  
@@ -819,7 +802,7 @@ header .banner-text h1 {
     padding-right: 15px;
  }
     
-  #web h2 {
+  #web h1 {
      line-height: 1.1;
   }
 
@@ -876,7 +859,7 @@ header .banner-text h1 {
      font: 45px/1.1em 'opensans-bold', sans-serif;      
      margin: -72% auto 14px auto;
   }
-  header .banner-text h3 {
+  header .banner-text p {
      font: 13px/1.9em 'librebaskerville-regular', sans-serif;
      width: 80%;
      margin-top: -1%;
@@ -891,7 +874,7 @@ header .banner-text h1 {
 }
 
 
-#about h2, #web h2, #portfolio h2, #photography h2 {
+#about h2, #web h1, #portfolio h2, #photography h2 {
    font-size: 35px;
 }
 
@@ -902,7 +885,7 @@ header .banner-text h1 {
 .design {
    margin-top: -5%;
 }
-#portfolio h2 {
+#portfolio h1 {
    margin-bottom: -45px;
 }
 
@@ -935,7 +918,11 @@ header .banner-text h1 {
 header .banner { padding-top: 24px; }
 header .banner-text h1 {
    font: 35px/1.1em 'opensans-bold', sans-serif;      
-   margin: -70% auto 14px auto;
+   margin: -80% auto 14px auto;
+}
+
+header .banner-text p {
+   font-size: 14px;
 }
 
 .aboutInfo {

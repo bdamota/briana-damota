@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/briana-damota/static/css/main.34585449.chunk.css",
-    "main.js": "/briana-damota/static/js/main.53db93c5.chunk.js",
-    "main.js.map": "/briana-damota/static/js/main.53db93c5.chunk.js.map",
+    "main.css": "/briana-damota/static/css/main.62e8fa21.chunk.css",
+    "main.js": "/briana-damota/static/js/main.36c647cf.chunk.js",
+    "main.js.map": "/briana-damota/static/js/main.36c647cf.chunk.js.map",
     "runtime-main.js": "/briana-damota/static/js/runtime-main.d3b154b4.js",
     "runtime-main.js.map": "/briana-damota/static/js/runtime-main.d3b154b4.js.map",
     "static/js/2.1a01ae60.chunk.js": "/briana-damota/static/js/2.1a01ae60.chunk.js",
     "static/js/2.1a01ae60.chunk.js.map": "/briana-damota/static/js/2.1a01ae60.chunk.js.map",
     "index.html": "/briana-damota/index.html",
-    "precache-manifest.2e3facbe2c7714050c3aba36aee39aeb.js": "/briana-damota/precache-manifest.2e3facbe2c7714050c3aba36aee39aeb.js",
+    "precache-manifest.e48c3b76d59ef5d57ca53bd6be524e5e.js": "/briana-damota/precache-manifest.e48c3b76d59ef5d57ca53bd6be524e5e.js",
     "service-worker.js": "/briana-damota/service-worker.js",
-    "static/css/main.34585449.chunk.css.map": "/briana-damota/static/css/main.34585449.chunk.css.map",
+    "static/css/main.62e8fa21.chunk.css.map": "/briana-damota/static/css/main.62e8fa21.chunk.css.map",
     "static/js/2.1a01ae60.chunk.js.LICENSE.txt": "/briana-damota/static/js/2.1a01ae60.chunk.js.LICENSE.txt",
     "static/media/BiggestLoser.mp4": "/briana-damota/static/media/BiggestLoser.2f635cdc.mp4",
     "static/media/Freeform.mp4": "/briana-damota/static/media/Freeform.73bdca45.mp4",
@@ -51,7 +51,7 @@
   "entrypoints": [
     "static/js/runtime-main.d3b154b4.js",
     "static/js/2.1a01ae60.chunk.js",
-    "static/css/main.34585449.chunk.css",
-    "static/js/main.53db93c5.chunk.js"
+    "static/css/main.62e8fa21.chunk.css",
+    "static/js/main.36c647cf.chunk.js"
   ]
 }
