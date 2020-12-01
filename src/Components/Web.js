@@ -11,11 +11,11 @@ function Web () {
     return (
       <section id="web">
       <div className="col text-center">
-      <h2>UX DESIGN + WEB DEVELOPMENT</h2>
+      <h1>UX DESIGN + WEB DEVELOPMENT</h1>
       </div>
       <div className="row work">
          <div className="three columns header-col">
-            <h1><span>Technical Skills</span></h1>
+            <h2><span>Technical Skills</span></h2>
          </div>
 
          <div className="nine columns main-col">
@@ -32,7 +32,7 @@ function Web () {
     <div className="row projects">
 
          <div className="three columns header-col">
-            <h1><span>Projects</span></h1>
+            <h2><span>Projects</span></h2>
          </div>
 
 
@@ -62,7 +62,7 @@ function Web () {
           </br><strong>Team:</strong>  Briana daMota, Lauren Euge, Alex Chigas, Rochelle Ruiz<br>
           </br><strong>My Roles:</strong> UX Designer, Writer, Front-end Developer, Project Manager<br>
           </br><strong>Time Period:</strong> 2 Weeks (August/September 2020)<br>
-          </br><strong>Design Tools:</strong> Figma, Adobe Illustrator, Miro, Pen and Paper <br>
+          </br><strong>Design Tools:</strong> Figma, Adobe Illustrator, Miro, Lookback, Pen and Paper <br>
           </br><strong>Tech:</strong>  HTML5, CSS3, Bootstrap, JavaScript, Node, Express, MySQL, Handlebars, Sequelize, Heroku
             </Card.Text>
           <ButtonGroup className="buttons" aria-label="Basic example">
