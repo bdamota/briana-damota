@@ -58,12 +58,12 @@ header .banner-text h1 {
    margin: -20% auto 8px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
-header .banner-text h3 {
+header .banner-text p {
    font: 17px/1.6em 'librebaskerville-regular', serif;
    color: black;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .3);
+   text-shadow: 0px 1px 1px rgba(0, 0, 0, .3);
 }
 
 

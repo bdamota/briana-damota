@@ -23,9 +23,9 @@ function Header () {
       <div className="row banner">
          <div className="banner-text">
                <h1>Briana daMota</h1>
-                  <h3>I'm a UX designer, full stack developer, and content producer.</h3>
-                  <h3>In my spare time, a photographer and music lover.</h3>
-                  <h3>Always a wanderluster.</h3>
+                  <p>I'm a UX designer, full stack developer, and content producer.</p>
+                  <p>In my spare time, a photographer and music lover.</p>
+                  <p>Always a wanderluster.</p>
                   <ul className="social">
                   <li><a href="https://www.linkedin.com/in/brianadamota/" target="blank"> <i className="fa fa-linkedin"></i> </a></li>
                   <li><a href="https://github.com/bdamota" target="blank"> <i className="fa fa-github"></i> </a></li>
