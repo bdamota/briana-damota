@@ -75,33 +75,13 @@ header .social {
 }
 header .social li {
    display: inline-block;
-   margin: -1% 8px;
+   margin:  8px;
    padding: 0;
 }
 header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
 
-/* scrolldown link */
-header .scrolldown a {
-   position: absolute;
-   bottom: 40px;
-   left: 50%;
-   margin-left: -29px;
-   color: #fff;
-   display: block;
-   height: 42px;
-   width: 42px;
-   font-size: 42px;
-   line-height: 42px;
-   color: #fff;
-   border-radius: 100%;
 
-   -webkit-transition: all .3s ease-in-out;
-   -moz-transition: all .3s ease-in-out;
-   -o-transition: all .3s ease-in-out;
-   transition: all .3s ease-in-out;
-}
-header .scrolldown a:hover { color:#11ABB0; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -237,7 +217,7 @@ ul#nav li a:hover { color: #168387}
 }
 
 .skills {
-   font-size: 14px;
+   font-size: 15px;
    color: rgb(58, 51, 51);
 }
 
@@ -281,7 +261,7 @@ ul#nav li a:hover { color: #168387}
    text-align: justify;
 }
 #web .cardText {
-   font: 16px/24px;
+   font: 15px/24px;
    color: rgb(58, 51, 51);
    margin-bottom: 25px;
    margin-top: -5px;
@@ -379,7 +359,7 @@ video::-webkit-media-controls-panel {
    background: #191919;
    padding-top: 205px;
    padding-bottom: 100px;
-   color: #636363;
+   color: #e4dede;
 }
 
 #contact h2 {
@@ -405,7 +385,7 @@ video::-webkit-media-controls-panel {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: rgb(58, 51, 51);
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -424,7 +404,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
-    color: #878383;
+    color: rgb(58, 51, 51);
 }
 .ie footer .copyright li {
    display: inline;
@@ -449,7 +429,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 15px;
-    color: black;
+    color: rgb(58, 51, 51);
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -469,7 +449,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #525252;
+	background-color: #0F9095;
 
 	-webkit-transition: all 0.2s ease-in-out;
    -moz-transition: all 0.2s ease-in-out;
@@ -482,7 +462,7 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: rgb(58, 51, 51); }
 
 
 /* 
