@@ -5,6 +5,10 @@
   padding: 15px;
 }
 
+.image:hover {
+  opacity: 80%;
+}
+
 
 
 @-webkit-keyframes closeWindow {
