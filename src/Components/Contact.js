@@ -14,7 +14,7 @@ function Contact () {
                   <p className="address">
                   <span> I enjoy creating and collaborating. Please reach out with opportunities or to say hello!</span><br /><br /><br />
 						         Briana daMota<br />
-                     <span className="fa fa-globe"></span> Los Angeles, CA<br />
+                     <span className="fa fa-globe"></span> Atlanta, GA<br />
 						   <span className="fa fa-envelope"></span> <span className="email">bdamota0506@gmail.com</span>
 					   </p>
 
