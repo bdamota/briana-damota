@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f94bdeea4ad45bf4d66b2295707f2bac",
+    "revision": "13989ab90977edf9717df2746354e082",
     "url": "/briana-damota/index.html"
   },
   {
-    "revision": "21fe32b5735b0b502eba",
+    "revision": "1931d95a818a310db8ca",
     "url": "/briana-damota/static/css/main.34585449.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/briana-damota/static/js/2.1a01ae60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21fe32b5735b0b502eba",
-    "url": "/briana-damota/static/js/main.cd4e0efc.chunk.js"
+    "revision": "1931d95a818a310db8ca",
+    "url": "/briana-damota/static/js/main.9b855a5f.chunk.js"
   },
   {
     "revision": "fd26ba629afdd4ec5126",
