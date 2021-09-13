@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/briana-damota/static/css/main.34585449.chunk.css",
-    "main.js": "/briana-damota/static/js/main.28e00012.chunk.js",
-    "main.js.map": "/briana-damota/static/js/main.28e00012.chunk.js.map",
+    "main.js": "/briana-damota/static/js/main.cd4e0efc.chunk.js",
+    "main.js.map": "/briana-damota/static/js/main.cd4e0efc.chunk.js.map",
     "runtime-main.js": "/briana-damota/static/js/runtime-main.d3b154b4.js",
     "runtime-main.js.map": "/briana-damota/static/js/runtime-main.d3b154b4.js.map",
     "static/js/2.1a01ae60.chunk.js": "/briana-damota/static/js/2.1a01ae60.chunk.js",
     "static/js/2.1a01ae60.chunk.js.map": "/briana-damota/static/js/2.1a01ae60.chunk.js.map",
     "index.html": "/briana-damota/index.html",
-    "precache-manifest.0945e48d80f5bf27b8d9ba4378678856.js": "/briana-damota/precache-manifest.0945e48d80f5bf27b8d9ba4378678856.js",
+    "precache-manifest.c4581e22e8445a8f8e64cd134f136986.js": "/briana-damota/precache-manifest.c4581e22e8445a8f8e64cd134f136986.js",
     "service-worker.js": "/briana-damota/service-worker.js",
     "static/css/main.34585449.chunk.css.map": "/briana-damota/static/css/main.34585449.chunk.css.map",
     "static/js/2.1a01ae60.chunk.js.LICENSE.txt": "/briana-damota/static/js/2.1a01ae60.chunk.js.LICENSE.txt",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.d3b154b4.js",
     "static/js/2.1a01ae60.chunk.js",
     "static/css/main.34585449.chunk.css",
-    "static/js/main.28e00012.chunk.js"
+    "static/js/main.cd4e0efc.chunk.js"
   ]
 }
