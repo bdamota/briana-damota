@@ -23,7 +23,7 @@ function Header () {
       <div className="row banner">
          <div className="banner-text">
                <h1>Briana daMota</h1>
-                  <p>I'm a UX designer, full stack developer, and content producer.</p>
+                  <p>I'm a UX designer, full stack web developer, and creative content producer.</p>
                   <p>In my spare time, a photographer and music lover.</p>
                   <p>Always a wanderluster.</p>
                   <ul className="social">
