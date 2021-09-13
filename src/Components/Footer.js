@@ -12,7 +12,7 @@ function Footer () {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; 2020 Briana daMota</li>
+              <li>&copy; 2021 Briana daMota</li>
            </ul>
 
         </div>
